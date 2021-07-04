@@ -1,0 +1,30 @@
+li {
+    display: inline;
+    background-color:white;
+    margin: 12%; 
+    color: black;
+  }
+  
+  h1{
+      color:burlywood
+  }
+  h2{
+      color: coral;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  body {
+    background-color: lemonchiffon ;
+    font-family: roboto;
+  }
+img {
+    text-align: center; 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
